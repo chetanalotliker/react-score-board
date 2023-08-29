@@ -1,6 +1,6 @@
 # React Score Board
 
-Play the game "Score Board" created in React App
+Play "Score Board" created in React App
 
 See demo: https://chetanalotliker.github.io/react-score-board
 
